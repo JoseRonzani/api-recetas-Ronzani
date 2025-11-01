@@ -1,0 +1,818 @@
+[
+  {
+    "id": "R002",
+    "nombre": "Medialunas",
+    "tipo": "factura / medialuna",
+    "origen": "",
+    "sabor": "dulce",
+    "apto": [
+      "celiaco"
+    ],
+    "tiempo_de_coccion": "140°C por ~20 minutos",
+    "requiere_frio": false,
+    "nivel_dificultad": "medio",
+    "ingredientes": [
+      "Almidón de maíz 1575 g",
+      "Fécula de papa 175 g",
+      "Trigo sarraceno 70 g",
+      "Proteína aislada 50 g",
+      "Sal fina 50 g",
+      "Azúcar 630 g",
+      "Goma xántica 70 g",
+      "Levadura fresca 165 g",
+      "Margarina 700 g",
+      "Huevos 700 g (aprox 14)",
+      "Agua c/n"
+    ],
+    "descripcion": "Fermentar levadura con almidón/azúcar/agua. Mezclar secos, incorporar líquidos y levadura. Formar arenado, añadir margarina en cubitos, amasar ~10 minutos con lira. Estirar, cortar triángulos, formar medialunas (≈60 g c/u). Leudar hasta duplicar, pincelar con mezcla de leche+huevo y hornear a 140°C ~20 min o hasta dorar."
+  },
+  {
+    "id": "R003",
+    "nombre": "Rosca de Pascuas",
+    "tipo": "rosca / pan dulce",
+    "origen": "",
+    "sabor": "dulce",
+    "apto": [
+      "celiaco"
+    ],
+    "tiempo_de_coccion": "160°C por 40 minutos",
+    "requiere_frio": false,
+    "nivel_dificultad": "medio",
+    "ingredientes": [
+      "Azúcar 320 g",
+      "Almidón de maíz 600 g",
+      "Fécula de mandioca 200 g",
+      "Harina de sorgo 12 g",
+      "Harina de arroz 320 g",
+      "Polvo de hornear 28 g",
+      "Goma xántica 24 g",
+      "Ralladura de 1 limón",
+      "Pizca de sal",
+      "Miel 80 g",
+      "Esencia de vainilla c/n",
+      "Vinagre 4 cucharadas",
+      "Psyllium 20 g",
+      "Leche 250 g",
+      "Huevos 12",
+      "Manteca 300 g",
+      "Levadura 120 g"
+    ],
+    "descripcion": "Fermentar la levadura con azúcar y agua. Mezclar secos; batir miel, vainilla, vinagre, psyllium, leche y huevos; agregar la levadura y unir con los secos. Incorporar manteca fría y mezclar 10 minutos. Pesar en moldes, leudar 20–30 min y hornear a 160°C por 40 min. Rinde 7 roscas (~450 g masa cada una)."
+  },
+  {
+    "id": "R004",
+    "nombre": "Pan dulce (variante Rosca/mezcla)",
+    "tipo": "pan dulce / budín festivo",
+    "origen": "",
+    "sabor": "dulce",
+    "apto": [
+      "celiaco"
+    ],
+    "tiempo_de_coccion": "140°C por 25–30 minutos (según indicación de receta)",
+    "requiere_frio": false,
+    "nivel_dificultad": "medio",
+    "ingredientes": [
+      "Misma base que Rosca de Pascuas (ver R003)",
+      "Agua de azahar (unas gotas, opcional)",
+      "Opciones de relleno: nuez 75 g, almendras 75 g, nutella 30 g por pan dulce; chips 100 g y dulce de leche 30 g por pan dulce"
+    ],
+    "descripcion": "Se utiliza la preparación de rosca. Dividir masa para variantes; agregar los rellenos indicados y colocar dulce en el hueco antes de cerrar. Hornear a 140°C por 25–30 min. Rinde ~15 pan dulces de 200 g."
+  },
+  {
+    "id": "R005",
+    "nombre": "Pan de banana actualizado x3",
+    "tipo": "pan dulce",
+    "origen": "",
+    "sabor": "dulce",
+    "apto": [
+      "celiaco"
+    ],
+    "tiempo_de_coccion": "freír hasta dorar (no se especifica tiempo fijo)",
+    "requiere_frio": false,
+    "nivel_dificultad": "medio",
+    "ingredientes": [
+      "banana",
+      "huevos",
+      "almidón"
+    ],
+    "descripcion": "Mezclar todo y hornear 30 min a 180°C",
+    "tiempo de coccion": "50 minutos a 180°"
+  },
+  {
+    "id": "R006",
+    "nombre": "Ensaimada",
+    "tipo": "masa hojaldrada / pan dulce",
+    "origen": "español",
+    "sabor": "dulce",
+    "apto": [
+      "celiaco"
+    ],
+    "tiempo_de_coccion": "140°C por 15–20 minutos",
+    "requiere_frio": false,
+    "nivel_dificultad": "alto",
+    "ingredientes": [
+      "Azúcar 35 g",
+      "Huevo 100 g",
+      "Azúcar invertida 70 g",
+      "Margarina 30 g",
+      "Almidón de maíz 450 g",
+      "Fécula de papa 50 g",
+      "Goma xántica 15 g",
+      "Psyllium 10 g",
+      "Polvo de hornear 10 g",
+      "Proteína aislada 10 g",
+      "Levadura fresca 30 g",
+      "Sal 12 g",
+      "Empaste: Ralladura de naranja, Margarina para hojaldre 100 g, Azúcar impalpable 150 g"
+    ],
+    "descripcion": "Preparar azúcar invertida previamente. Mezclar secos en batidora, agregar líquidos y margarina en cubos. Batir hasta unir. Tomar 190 g de masa, untar empaste, enrollar formando rosca. Leudar hasta duplicar, hornear 15–20 min a 140°C, rellenar con pastelera o dulce de leche y espolvorear con azúcar impalpable. Rinde 5 unidades."
+  },
+  {
+    "id": "R007",
+    "nombre": "Baguette sin gluten",
+    "tipo": "pan / panificado",
+    "origen": "francés",
+    "sabor": "salado",
+    "apto": [
+      "celiaco"
+    ],
+    "tiempo_de_coccion": "190°C por 20 minutos",
+    "requiere_frio": false,
+    "nivel_dificultad": "medio",
+    "ingredientes": [
+      "Almidón de maíz 720 g",
+      "Fécula de papa 140 g",
+      "Fécula de mandioca 140 g",
+      "Goma xántica 30 g",
+      "Psyllium 25 g",
+      "Azúcar 30 g",
+      "Trigo sarraceno 30 g",
+      "Levadura fresca 20 g",
+      "Polvo de hornear 20 g",
+      "Sal 24 g",
+      "Huevos 1",
+      "Margarina 120 g",
+      "Agua 850 ml"
+    ],
+    "descripcion": "Fermentar levadura con azúcar y agua. Mezclar secos, agregar levadura, huevo y agua. Formar masa húmeda pero firme. Modelar baguettes de 120 g, dejar leudar hasta duplicar y hornear a 190°C por 20 minutos. Rinde 18 unidades."
+  },
+  {
+    "id": "R008",
+    "nombre": "Chipa relleno",
+    "tipo": "pan / snack",
+    "origen": "paraguayo-argentino",
+    "sabor": "salado",
+    "apto": [
+      "celiaco"
+    ],
+    "tiempo_de_coccion": "no especificado (horno hasta dorar)",
+    "requiere_frio": false,
+    "nivel_dificultad": "medio",
+    "ingredientes": [
+      "Fécula de mandioca 1 kg",
+      "Fécula de maíz 500 g",
+      "Huevos 6",
+      "Polvo de hornear 40 g",
+      "Margarina 600 g",
+      "Leche 450 ml",
+      "Queso dambo 400 g",
+      "Queso cremoso 300 g",
+      "Sal gruesa 20 g",
+      "Sal fina 10 g"
+    ],
+    "descripcion": "Rallar el queso dambo, reservar mitad para relleno. Mezclar queso cremoso, secos y margarina. Agregar huevos, luego leche hasta formar masa. Cortar discos de 13 cm y 0,6 cm de espesor. Rellenar con paleta y queso, tapar y decorar con queso encima. Rinde ~30 unidades de 120 g."
+  },
+  {
+    "id": "R009",
+    "nombre": "Chipa tradicional",
+    "tipo": "pan / snack",
+    "origen": "paraguayo-argentino",
+    "sabor": "salado",
+    "apto": [
+      "celiaco"
+    ],
+    "tiempo_de_coccion": "25 minutos a 180°C",
+    "requiere_frio": false,
+    "nivel_dificultad": "bajo",
+    "ingredientes": [
+      "Fécula de mandioca 3000 g",
+      "Huevos 12",
+      "Polvo de hornear 80 g",
+      "Margarina 1200 g",
+      "Leche 900 ml",
+      "Queso tybo rallado 2000 g",
+      "Queso cremoso 600 g",
+      "Sal gruesa 40 g",
+      "Sal fina 25 g",
+      "Saborizante cuatro quesos 4 sobres"
+    ],
+    "descripcion": "Rallar y cortar quesos, mezclar secos en batidora, incorporar quesos y margarina para formar arenado. Agregar leche y huevos, formar bolitas de ~30 g. Hornear 25 min a 180°C. Rinde 270 unidades."
+  },
+  {
+    "id": "R010",
+    "nombre": "Scons de queso",
+    "tipo": "panificado / snack",
+    "origen": "británico",
+    "sabor": "salado",
+    "apto": [
+      "celiaco"
+    ],
+    "tiempo_de_coccion": "180°C por 20 minutos",
+    "requiere_frio": false,
+    "nivel_dificultad": "medio",
+    "ingredientes": [
+      "Premezcla glutal 4800 g",
+      "Polvo de hornear 180 g",
+      "Sal fina 90 g",
+      "Margarina 1200 g",
+      "Queso tybo 1800 g",
+      "Crema de leche 3600 g",
+      "Huevos 16"
+    ],
+    "descripcion": "Rallar queso grueso, mezclar secos con margarina hasta arenado, agregar huevos y crema hasta formar masa. Estirar de 5 cm de espesor, cortar cuadrados de 6x6 cm, dividir en triángulos. Hornear a 180°C por 20 minutos. Rinde 110 unidades (~60 g cada una)."
+  },
+  {
+    "id": "R011",
+    "nombre": "Masa de tarta sin gluten",
+    "tipo": "masa base / tarta",
+    "origen": "",
+    "sabor": "neutro",
+    "apto": [
+      "celiaco"
+    ],
+    "tiempo_de_coccion": "variable según relleno",
+    "requiere_frio": true,
+    "nivel_dificultad": "bajo",
+    "ingredientes": [
+      "Premezcla glutal 1000 g",
+      "Leche en polvo 80 g",
+      "Sal fina 10 g",
+      "Aceite 140 g",
+      "Huevos 6",
+      "Chuño: Agua 300 ml, Fécula de mandioca 100 g"
+    ],
+    "descripcion": "Preparar el chuño calentando agua con fécula hasta formar pasta transparente. Mezclar sólidos, agregar chuño, huevos y aceite. Amasar hasta obtener masa trabajable y estirable. Guardar en heladera hasta 7 días. Rinde 11 tartas de 12 cm de diámetro."
+  },
+  {
+    "id": "R012",
+    "nombre": "Pan de molde común",
+    "tipo": "pan / molde",
+    "origen": "",
+    "sabor": "salado",
+    "apto": [
+      "celiaco"
+    ],
+    "tiempo_de_coccion": "170°C durante 45 minutos",
+    "requiere_frio": false,
+    "nivel_dificultad": "medio",
+    "ingredientes": [
+      "Premezcla glutal 3200 g",
+      "Polvo de hornear 90 g",
+      "Goma xántica 70 g",
+      "Trigo sarraceno 400 g",
+      "Levadura 225 g",
+      "Azúcar c/n",
+      "Sal 70 g",
+      "Leche líquida 3420 g",
+      "Huevos 18",
+      "Aceite 140 g"
+    ],
+    "descripcion": "Activar levadura con azúcar y leche tibia. Mezclar secos, agregar levadura y líquidos. Batir 10 minutos hasta integrar. Verificar que no queden secos, colocar en moldes aceitados, leudar 30 minutos y hornear 45 minutos a 170°C. Rinde 9 panes de 1050 g."
+  },
+  {
+    "id": "R013",
+    "nombre": "Pan de hamburguesas / paninis / chips",
+    "tipo": "pan individual",
+    "origen": "",
+    "sabor": "salado",
+    "apto": [
+      "celiaco"
+    ],
+    "tiempo_de_coccion": "180°C durante 15 minutos",
+    "requiere_frio": false,
+    "nivel_dificultad": "bajo",
+    "ingredientes": [
+      "Premezcla para pan 800 g",
+      "Leche en polvo 100 g",
+      "Levadura fresca 50 g",
+      "Azúcar 2 cdas",
+      "Huevos 4",
+      "Aceite 120 ml",
+      "Sal fina 20 g",
+      "Psyllium 8 g",
+      "Goma xántica 10 g",
+      "Agua 700 ml"
+    ],
+    "descripcion": "Mezclar secos en batidora, añadir huevos, aceite, levadura y agua. Batir 10 min hasta masa blanda. Colocar en moldes aceitados, leudar 30 min, hornear 15 min a 180°C. Rinde 20 panes de 100 g."
+  },
+  {
+    "id": "R014",
+    "nombre": "Pan de molde integral sin gluten",
+    "tipo": "pan / integral",
+    "origen": "",
+    "sabor": "salado",
+    "apto": [
+      "celiaco"
+    ],
+    "tiempo_de_coccion": "170°C durante 45–60 minutos",
+    "requiere_frio": false,
+    "nivel_dificultad": "medio",
+    "ingredientes": [
+      "Almidón de maíz 1440 g",
+      "Harina de arroz integral 1080 g",
+      "Trigo sarraceno 540 g",
+      "Harina de arvejas 180 g",
+      "Lino 90 g",
+      "Sal fina 75 g",
+      "Polvo de hornear 75 g",
+      "Levadura fresca 225 g",
+      "Aceite 240 ml",
+      "Goma xántica 45 g",
+      "Agua 4050 ml",
+      "Chía molida hidratada 120 g (con 450 ml agua)",
+      "Semillas molidas 20 g"
+    ],
+    "descripcion": "Mezclar secos, agregar chía hidratada y levadura. Incorporar agua y aceite, amasar 10 minutos. Colocar en moldes, decorar con semillas, leudar 30 min y hornear 45–60 min a 170°C. Rinde 8 panes de 1 kg."
+  },
+  {
+    "id": "R015",
+    "nombre": "Pizza de zanahoria",
+    "tipo": "pizza",
+    "origen": "",
+    "sabor": "salado",
+    "apto": [
+      "celiaco"
+    ],
+    "tiempo_de_coccion": "200°C durante 20 minutos",
+    "requiere_frio": false,
+    "nivel_dificultad": "bajo",
+    "ingredientes": [
+      "Almidón de maíz 400 g",
+      "Harina de arroz integral 100 g",
+      "Semillas de chía 20 g",
+      "Harina de sorgo 20 g",
+      "Trigo sarraceno 100 g",
+      "Goma xántica 15 g",
+      "Psyllium 15 g",
+      "Sal fina 20 g",
+      "Polvo de hornear 15 g",
+      "Levadura fresca 50 g",
+      "Azúcar 15 g",
+      "Agua 700 g",
+      "Aceite 60 ml",
+      "Zanahorias 300 g"
+    ],
+    "descripcion": "Licuar zanahorias con agua, mezclar secos en batidora, incorporar líquidos y amasar 10 minutos. Pesar 200 g por molde de 22 cm, emparejar con espátula, leudar 30 minutos, cubrir con salsa y hornear a 200°C por 20 minutos. Rinde 8 pizzas."
+  },
+  {
+    "id": "R016",
+    "nombre": "Cremona sin gluten (y variantes)",
+    "tipo": "pan hojaldrado",
+    "origen": "argentino",
+    "sabor": "salado",
+    "apto": [
+      "celiaco"
+    ],
+    "tiempo_de_coccion": "variable (no especificado, horno medio hasta dorar)",
+    "requiere_frio": true,
+    "nivel_dificultad": "alto",
+    "ingredientes": [
+      "Almidón de maíz 3600 g",
+      "Fécula de papa 400 g",
+      "Sal fina 45 g",
+      "Azúcar 50 g",
+      "Polvo de hornear 70 g",
+      "Goma xántica 100 g",
+      "Levadura fresca 160 g",
+      "Margarina para hojaldre 560 g",
+      "Huevos 8",
+      "Proteína aislada 8 g",
+      "Agua 2600 ml",
+      "Empaste: Margarina para hojaldre 800 g"
+    ],
+    "descripcion": "Mezclar los secos, incorporar líquidos y amasar hasta humectar. Agregar margarina y amasar hasta obtener masa lisa. Reposar en heladera una hora. Preparar empaste con margarina y almidón, envolver en masa, hojaldrar. Mantener fría entre pliegues. Usar margarina especial para hojaldre sin gluten. Variante: Cremona clásica con proporciones reducidas."
+  },
+  {
+    "id": "R017",
+    "nombre": "Masa de pastas sin gluten",
+    "tipo": "masa base / pasta",
+    "origen": "",
+    "sabor": "neutro",
+    "apto": [
+      "celiaco"
+    ],
+    "tiempo_de_coccion": "variable según formato",
+    "requiere_frio": false,
+    "nivel_dificultad": "bajo",
+    "ingredientes": [
+      "Premezcla Doña Pacha 1000 g",
+      "Sal 10 g",
+      "Goma xántica 15 g",
+      "Aceite 30 g",
+      "Leche 400 g",
+      "Huevos 5"
+    ],
+    "descripcion": "Amasar en batidora con gancho hasta lograr masa lisa. Estirar con sobadora para formar ravioles o fideos. Rinde 6 porciones (~300 g de tallarines o 7–8 porciones de ravioles)."
+  },
+  {
+    "id": "R018",
+    "nombre": "Masa de tartas integral",
+    "tipo": "masa base / integral",
+    "origen": "",
+    "sabor": "neutro",
+    "apto": [
+      "celiaco"
+    ],
+    "tiempo_de_coccion": "según relleno",
+    "requiere_frio": false,
+    "nivel_dificultad": "bajo",
+    "ingredientes": [
+      "Fécula de maíz 200 g",
+      "Fécula de mandioca 100 g",
+      "Harina de sarraceno 50 g",
+      "Harina de arroz integral 150 g",
+      "Chía hidratada 30 g",
+      "Opcional: Sésamo triturado 10 g, Lino triturado 10 g"
+    ],
+    "descripcion": "Mezclar ingredientes secos y húmedos para formar masa integral. Usar 250 g de mezcla por tarta con chuño (150 g agua + 1,5 cda mandioca), 4 g sal, 35 g aceite y 1 huevo. Rinde 8 tartas."
+  },
+  {
+    "id": "R019",
+    "nombre": "Masa de panqueques sin gluten",
+    "tipo": "masa base / panqueque",
+    "origen": "",
+    "sabor": "neutro",
+    "apto": [
+      "celiaco"
+    ],
+    "tiempo_de_coccion": "1–2 min por lado en sartén caliente",
+    "requiere_frio": false,
+    "nivel_dificultad": "bajo",
+    "ingredientes": [
+      "Aceite 1 cda",
+      "Leche 400 g",
+      "Huevos 2",
+      "Sal 1 cdita",
+      "Premezcla glutal (cantidad necesaria)"
+    ],
+    "descripcion": "Batir todos los ingredientes y cocinar porciones pequeñas en sartén antiadherente hasta dorar ambos lados. Usar para lasagna o panqueques dulces/salados."
+  },
+  {
+    "id": "R020",
+    "nombre": "Lasagna sin gluten",
+    "tipo": "pasta al horno",
+    "origen": "italiano",
+    "sabor": "salado",
+    "apto": [
+      "celiaco"
+    ],
+    "tiempo_de_coccion": "180°C hasta dorar (~25–30 minutos)",
+    "requiere_frio": false,
+    "nivel_dificultad": "medio",
+    "ingredientes": [
+      "Bolognesa 80 g",
+      "Masa de panqueques 20 g",
+      "Relleno de verdura 70 g",
+      "Salsa blanca c/n",
+      "Jamón y queso c/n",
+      "Queso rallado c/n"
+    ],
+    "descripcion": "Intercalar capas de panqueques, relleno de verdura, bolognesa y salsas. Terminar con queso rallado. Hornear a 180°C hasta gratinar. Peso total aproximado 600 g."
+  },
+  {
+    "id": "R021",
+    "nombre": "Pizza Doña Pacha",
+    "tipo": "pizza",
+    "origen": "argentino",
+    "sabor": "salado",
+    "apto": [
+      "celiaco"
+    ],
+    "tiempo_de_coccion": "160°C durante 17 minutos",
+    "requiere_frio": false,
+    "nivel_dificultad": "bajo",
+    "ingredientes": [
+      "Premezcla para pizza Doña Pacha 1000 g",
+      "Leche en polvo 80 g",
+      "Agua 1000 g",
+      "Aceite 43 g",
+      "Sal fina 20 g"
+    ],
+    "descripcion": "Mezclar en batidora los sólidos, incorporar agua y aceite. Batir 6 minutos. Esparcir en 10 placas aceitada de 22 cm, dejar leudar, agregar tomate y orégano. Cocinar a 160°C durante 17 minutos."
+  },
+  {
+    "id": "R022",
+    "nombre": "Bagels sin gluten",
+    "tipo": "pan individual",
+    "origen": "estadounidense",
+    "sabor": "salado",
+    "apto": [
+      "celiaco"
+    ],
+    "tiempo_de_coccion": "no especificado (horno medio hasta dorar)",
+    "requiere_frio": false,
+    "nivel_dificultad": "medio",
+    "ingredientes": [
+      "Almidón de maíz 100 g",
+      "Proteína aislada 10 g",
+      "Trigo sarraceno 20 g",
+      "Sal 3 g",
+      "Harina de arroz 58 g",
+      "Harina de arvejas 7 g",
+      "Psyllium 16 g",
+      "Huevo 50 g (1)",
+      "Azúcar 20 g",
+      "Aceite 8 g",
+      "Goma xántica 8 g",
+      "Agua 120 ml",
+      "Levadura 21 g"
+    ],
+    "descripcion": "Mezclar secos, agregar huevo, agua, levadura y aceite. Amasar hasta formar masa suave. Formar bagels, dejar leudar y hornear hasta dorar. Ideal para sándwiches sin gluten."
+  },
+  {
+    "id": "R023",
+    "nombre": "Premezcla sin lácteos",
+    "tipo": "premezcla base",
+    "origen": "",
+    "sabor": "neutro",
+    "apto": [
+      "celiaco",
+      "sin lácteos"
+    ],
+    "tiempo_de_coccion": "",
+    "requiere_frio": false,
+    "nivel_dificultad": "bajo",
+    "ingredientes": [
+      "Almidón de maíz 375 g",
+      "Harina de arroz 300 g",
+      "Fécula de mandioca 200 g",
+      "Fécula de papa 100 g",
+      "Trigo sarraceno 25 g"
+    ],
+    "descripcion": "Mezcla básica libre de gluten y de lácteos para elaborar panes y pastelería. Se conserva en frasco hermético."
+  },
+  {
+    "id": "R024",
+    "nombre": "Premezcla simple",
+    "tipo": "premezcla base",
+    "origen": "",
+    "sabor": "neutro",
+    "apto": [
+      "celiaco"
+    ],
+    "tiempo_de_coccion": "",
+    "requiere_frio": false,
+    "nivel_dificultad": "bajo",
+    "ingredientes": [
+      "Maicena 350 g",
+      "Harina de arroz 300 g",
+      "Fécula de mandioca 200 g",
+      "Fécula de papa 100 g",
+      "Leche en polvo 50 g"
+    ],
+    "descripcion": "Premezcla básica todo uso para preparaciones dulces y saladas sin gluten. Guardar en recipiente cerrado y seco."
+  },
+  {
+    "id": "R025",
+    "nombre": "Crema pastelera",
+    "tipo": "relleno / crema",
+    "origen": "francés",
+    "sabor": "dulce",
+    "apto": [
+      "celiaco"
+    ],
+    "tiempo_de_coccion": "hasta espesar (5–10 minutos aprox.)",
+    "requiere_frio": true,
+    "nivel_dificultad": "medio",
+    "ingredientes": [
+      "Leche 700 cc",
+      "Yemas 4",
+      "Almidón de maíz 60 g",
+      "Azúcar 125 g",
+      "Esencia de vainilla c/n"
+    ],
+    "descripcion": "Batir yemas con almidón y azúcar. Calentar leche con azúcar, agregar parte a las yemas, integrar y devolver al fuego. Cocinar revolviendo hasta espesar. Aromatizar con vainilla. Enfriar tapada para evitar costra."
+  },
+  {
+    "id": "R026",
+    "nombre": "Ganache de chocolate negro",
+    "tipo": "relleno / cobertura",
+    "origen": "francés",
+    "sabor": "dulce",
+    "apto": [
+      "celiaco"
+    ],
+    "tiempo_de_coccion": "10 minutos aprox. + enfriado",
+    "requiere_frio": true,
+    "nivel_dificultad": "bajo",
+    "ingredientes": [
+      "Crema de leche 400 g",
+      "Dulce de leche 400 g",
+      "Chocolate negro 800 g"
+    ],
+    "descripcion": "Calentar crema y dulce de leche hasta que hiervan y se disuelva el dulce. Volcar sobre el chocolate picado, dejar reposar unos minutos y mezclar hasta obtener una crema lisa. Enfriar a temperatura ambiente y luego refrigerar. Batir antes de usar si se desea textura más aireada."
+  },
+  {
+    "id": "R027",
+    "nombre": "Ganache de chocolate blanco",
+    "tipo": "relleno / cobertura",
+    "origen": "francés",
+    "sabor": "dulce",
+    "apto": [
+      "celiaco"
+    ],
+    "tiempo_de_coccion": "5 minutos + enfriado",
+    "requiere_frio": true,
+    "nivel_dificultad": "bajo",
+    "ingredientes": [
+      "Crema de leche 250 g",
+      "Chocolate blanco 400 g"
+    ],
+    "descripcion": "Calentar la crema hasta hervir, verter sobre chocolate picado, dejar reposar 1 min y batir hasta disolver. Enfriar y refrigerar tapado. Batir antes de usar. Puede calentarse brevemente en microondas para ablandar."
+  },
+  {
+    "id": "R028",
+    "nombre": "Buttercream a base de merengue italiano",
+    "tipo": "relleno / crema decorativa",
+    "origen": "italiano",
+    "sabor": "dulce",
+    "apto": [
+      "celiaco"
+    ],
+    "tiempo_de_coccion": "15–20 minutos (incluye batido)",
+    "requiere_frio": true,
+    "nivel_dificultad": "medio",
+    "ingredientes": [
+      "Azúcar 250 g",
+      "Claras 125 g",
+      "Agua 50 ml",
+      "Manteca 250 g"
+    ],
+    "descripcion": "Preparar almíbar a 120°C. Mientras, batir claras a nieve. Verter almíbar en hilo sobre las claras y seguir batiendo hasta enfriar el bowl. Agregar manteca pomada y continuar batiendo hasta obtener textura cremosa. Refrigerar o freezar. Batir antes de usar."
+  },
+  {
+    "id": "R029",
+    "nombre": "Merengue italiano",
+    "tipo": "merengue / base",
+    "origen": "italiano",
+    "sabor": "dulce",
+    "apto": [
+      "celiaco"
+    ],
+    "tiempo_de_coccion": "10–15 minutos (preparación + batido)",
+    "requiere_frio": false,
+    "nivel_dificultad": "medio",
+    "ingredientes": [
+      "Azúcar 250 g",
+      "Claras 125 g",
+      "Agua 50 ml"
+    ],
+    "descripcion": "Llevar agua y azúcar al fuego hasta 120°C. Batir claras a punto nieve y verter almíbar en hilo sin dejar de batir. Continuar hasta que el bowl se enfríe. El merengue debe quedar firme y brillante. Ideal para tortas y postres."
+  },
+  {
+    "id": "R030",
+    "nombre": "Crema de queso (tipo cheesecake)",
+    "tipo": "relleno / crema",
+    "origen": "",
+    "sabor": "dulce",
+    "apto": [
+      "celiaco"
+    ],
+    "tiempo_de_coccion": "no requiere cocción (solo enfriado)",
+    "requiere_frio": true,
+    "nivel_dificultad": "medio",
+    "ingredientes": [
+      "Azúcar 170 g",
+      "Yemas 8",
+      "Agua 40 ml",
+      "Queso crema 500 g",
+      "Crema de leche 500 ml",
+      "Esencia de vainilla c/n",
+      "Gelatina sin sabor 15 g (hidratada en 75 g agua)"
+    ],
+    "descripcion": "Hacer almíbar con azúcar y agua a 120°C. Batir yemas hasta espumar, verter almíbar y seguir batiendo. Integrar gelatina hidratada, luego queso, crema y vainilla. Batir hasta consistencia firme. Refrigerar hasta usar."
+  },
+  {
+    "id": "R031",
+    "nombre": "Glasé de limón",
+    "tipo": "cobertura / decoración",
+    "origen": "",
+    "sabor": "dulce",
+    "apto": [
+      "celiaco"
+    ],
+    "tiempo_de_coccion": "no requiere cocción (puede ablandarse en microondas)",
+    "requiere_frio": false,
+    "nivel_dificultad": "bajo",
+    "ingredientes": [
+      "Azúcar impalpable (cantidad necesaria)",
+      "Jugo de limón (cantidad necesaria)",
+      "Ralladura de limón (opcional)"
+    ],
+    "descripcion": "Mezclar azúcar impalpable con jugo de limón hasta lograr consistencia espesa pero fluida. Puede agregarse ralladura. Para endurecer, dejar secar o calentar brevemente en microondas antes de aplicar. Ideal para budines o galletas."
+  },
+  {
+    "id": "R032",
+    "nombre": "Crema Chantilly",
+    "tipo": "relleno / cobertura",
+    "origen": "francés",
+    "sabor": "dulce",
+    "apto": [
+      "celiaco"
+    ],
+    "tiempo_de_coccion": "5 minutos (batido)",
+    "requiere_frio": true,
+    "nivel_dificultad": "bajo",
+    "ingredientes": [
+      "Crema de leche 300 g",
+      "Azúcar 8 cucharadas",
+      "Esencia de vainilla c/n"
+    ],
+    "descripcion": "Batir crema con azúcar y esencia de vainilla hasta punto chantilly. Mantener refrigerada hasta usar. Puede aromatizarse con licores o cáscaras cítricas."
+  },
+  {
+    "id": "R033",
+    "nombre": "Tabla de rellenos según torta",
+    "tipo": "referencia / tabla técnica",
+    "origen": "",
+    "sabor": "",
+    "apto": [
+      "celiaco"
+    ],
+    "tiempo_de_coccion": "",
+    "requiere_frio": false,
+    "nivel_dificultad": "bajo",
+    "ingredientes": [],
+    "descripcion": "Tabla orientativa de cantidad de relleno según diámetro de torta (ganache, buttercream, crema de queso, mousse, crema de chocotorta, etc.). Por ejemplo: torta de 20 cm requiere 550 g de ganache o 400 g de crema de queso."
+  },
+  {
+    "id": "R034",
+    "nombre": "Cookies de chocolate blanco y negro",
+    "tipo": "cookie / galleta",
+    "origen": "americano",
+    "sabor": "dulce",
+    "apto": [
+      "celiaco"
+    ],
+    "tiempo_de_coccion": "180°C durante 15 minutos",
+    "requiere_frio": true,
+    "nivel_dificultad": "medio",
+    "ingredientes": [
+      "Manteca 100 g",
+      "Azúcar rubia 80 g",
+      "Azúcar blanca 50 g",
+      "Huevo 57 g",
+      "Esencia de vainilla 4 g",
+      "Cacao alcalino 30 g",
+      "Harina todo uso (sin gluten) 155 g",
+      "Fécula de maíz 1.5 g",
+      "Bicarbonato de sodio 1.5 g",
+      "Sal 1 g",
+      "Chips de chocolate blanco 130 g",
+      "Chips de chocolate con leche 50 g"
+    ],
+    "descripcion": "Batir manteca con azúcares hasta cremoso. Incorporar huevo y vainilla. Agregar secos tamizados y mezclar. Añadir chips y refrigerar 15 min. Formar bolitas de 100 g, congelar 90 min y hornear a 180°C 15 min. Rinde 6–8 cookies grandes."
+  },
+  {
+    "id": "R035",
+    "nombre": "Pan de banana ACTUALIZADO",
+    "tipo": "pan dulce",
+    "origen": "casero",
+    "sabor": "dulce",
+    "apto": [
+      "celiaco"
+    ],
+    "tiempo_de_coccion": "50 minutos a 180°",
+    "requiere_frio": false,
+    "nivel_dificultad": "fácil",
+    "ingredientes": [
+      "banana",
+      "huevos",
+      "almidón"
+    ],
+    "descripcion": "Batir los huevos con el azúcar, agregar aceite, jugo y ralladura de limón. Incorporar los secos tamizados y mezclar. Colocar en molde enmantecado y hornear a 180°C por 40 minutos."
+  },
+  {
+    "id": "R036",
+    "nombre": "Budín de limón sin gluten",
+    "tipo": "budín",
+    "origen": "casero",
+    "sabor": "dulce",
+    "apto": [
+      "celiaco"
+    ],
+    "tiempo_de_coccion": "180°C durante 40 minutos",
+    "requiere_frio": false,
+    "nivel_dificultad": "bajo",
+    "ingredientes": [
+      "Harina sin gluten 250 g",
+      "Azúcar 200 g",
+      "Huevos 3",
+      "Aceite 100 ml",
+      "Ralladura de limón 1",
+      "Jugo de limón 50 ml",
+      "Polvo de hornear 10 g"
+    ],
+    "descripcion": "Batir los huevos con el azúcar, agregar el aceite y los líquidos. Incorporar los ingredientes secos tamizados. Verter en un molde enmantecado y hornear a 180°C durante 40 minutos o hasta que al pinchar salga seco."
+  }
+]
