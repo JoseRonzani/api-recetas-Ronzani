@@ -207,3 +207,5 @@
 [POST] /api/recetas - 4/11/2025, 04:53:13
 [POST] /api/recetas - 4/11/2025, 05:26:14
 [POST] /api/recetas - 4/11/2025, 05:26:52
+[POST] /api/recetas - 4/11/2025, 06:12:23
+[GET] /api/recetas/R039 - 4/11/2025, 06:41:38
