@@ -739,7 +739,7 @@
     "apto": [
       "celiaco"
     ],
-    "tiempo_de_coccion": "",
+    "tiempo_de_coccion": "180 °",
     "requiere_frio": false,
     "nivel_dificultad": "bajo",
     "ingredientes": [],
@@ -814,5 +814,20 @@
       "Polvo de hornear 10 g"
     ],
     "descripcion": "Batir los huevos con el azúcar, agregar el aceite y los líquidos. Incorporar los ingredientes secos tamizados. Verter en un molde enmantecado y hornear a 180°C durante 40 minutos o hasta que al pinchar salga seco."
+  },
+  {
+    "id": "R037",
+    "nombre": "Pan de banana prueba",
+    "tipo": "pan dulce",
+    "tiempo_de_coccion": "50 minutos a 180°",
+    "apto": [
+      "celiaco"
+    ],
+    "ingredientes": [
+      "banana",
+      "huevos",
+      "almidón"
+    ],
+    "descripcion": "Mezclar todo y hornear 30 min a 180°C"
   }
 ]

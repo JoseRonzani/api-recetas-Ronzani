@@ -1,7 +1,7 @@
 const express = require('express');
 const recetasRoutes = require('./routes/recetas.routes');
 const logger = require('../middlewares/logger');
-import { normalizarClaves } from './middlewares/normalizarClaves.js';
+const normalizarClaves = require('../middlewares/normalizarClaves');
 
 const app = express();
 const PORT = 3000;
