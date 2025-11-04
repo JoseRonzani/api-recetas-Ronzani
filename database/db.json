@@ -1,5 +1,32 @@
 [
   {
+    "id": "R001",
+    "nombre": "Pan de banana sin gluten",
+    "tipo": "pan dulce",
+    "origen": "",
+    "sabor": "dulce",
+    "apto": [
+      "celiaco"
+    ],
+    "tiempo_de_coccion": "",
+    "requiere_frio": "no",
+    "nivel_dificultad": "medio",
+    "ingredientes": [
+      "Almidón de maíz 2400 g",
+      "Fécula de papa 600 g",
+      "Goma xántica 120 g",
+      "Azúcar 1080 g",
+      "Miel 180 g",
+      "Huevos 1200 g",
+      "Margarina 1080 g",
+      "Proteína aislada 120 g",
+      "Psyllium 24 g",
+      "Esencia de vainilla c/n",
+      "Levadura 200 g"
+    ],
+    "descripcion": "Activar la levadura con azúcar, fécula de maíz y agua. Unir los secos, agregar margarina en cubos para formar arenado; sumar huevos, vainilla y miel. Mezclar 10 minutos en batidora con lira, formar las facturas, dejar leudar hasta duplicar y hornear o congelar. Rinde aprox. 140 facturas."
+  },
+  {
     "id": "R002",
     "nombre": "Medialunas",
     "tipo": "factura / medialuna",
@@ -791,58 +818,5 @@
       "almidón"
     ],
     "descripcion": "Batir los huevos con el azúcar, agregar aceite, jugo y ralladura de limón. Incorporar los secos tamizados y mezclar. Colocar en molde enmantecado y hornear a 180°C por 40 minutos."
-  },
-  {
-    "id": "R036",
-    "nombre": "Budín de limón sin gluten",
-    "tipo": "budín",
-    "origen": "casero",
-    "sabor": "dulce",
-    "apto": [
-      "celiaco"
-    ],
-    "tiempo_de_coccion": "180°C durante 40 minutos",
-    "requiere_frio": false,
-    "nivel_dificultad": "bajo",
-    "ingredientes": [
-      "Harina sin gluten 250 g",
-      "Azúcar 200 g",
-      "Huevos 3",
-      "Aceite 100 ml",
-      "Ralladura de limón 1",
-      "Jugo de limón 50 ml",
-      "Polvo de hornear 10 g"
-    ],
-    "descripcion": "Batir los huevos con el azúcar, agregar el aceite y los líquidos. Incorporar los ingredientes secos tamizados. Verter en un molde enmantecado y hornear a 180°C durante 40 minutos o hasta que al pinchar salga seco."
-  },
-  {
-    "id": "R037",
-    "nombre": "Pan de banana prueba",
-    "tipo": "pan dulce",
-    "tiempo_de_coccion": "50 minutos a 180°",
-    "apto": [
-      "celiaco"
-    ],
-    "ingredientes": [
-      "banana",
-      "huevos",
-      "almidón"
-    ],
-    "descripcion": "Mezclar todo y hornear 30 min a 180°C"
-  },
-  {
-    "id": "R033",
-    "nombre": "RELLENOS PARA TORTAS",
-    "tipo": "referencia / tabla técnica",
-    "origen": "",
-    "sabor": "",
-    "apto": [
-      "celiaco"
-    ],
-    "tiempo_de_coccion": "180 °",
-    "requiere_frio": false,
-    "nivel_dificultad": "bajo",
-    "ingredientes": [],
-    "descripcion": "Tabla orientativa de cantidad de relleno según diámetro de torta (ganache, buttercream, crema de queso, mousse, crema de chocotorta, etc.). Por ejemplo: torta de 20 cm requiere 550 g de ganache o 400 g de crema de queso."
   }
 ]
