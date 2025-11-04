@@ -101,7 +101,7 @@ api-recetas-Ronzani/
 {
   "nombre": "Pan de banana",
   "tipo": "pan dulce",
-  "tiempo de cocción": "50 minutos a 180°",
+  "tiempo_de_coccion": "50 minutos a 180°",
   "apto": ["celiaco"],
   "ingredientes": ["banana", "huevos", "almidón"],
   "descripcion": "Mezclar todo y hornear 30 min a 180°C"
