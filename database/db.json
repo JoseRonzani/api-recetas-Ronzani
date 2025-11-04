@@ -829,5 +829,20 @@
       "almidón"
     ],
     "descripcion": "Mezclar todo y hornear 30 min a 180°C"
+  },
+  {
+    "id": "R033",
+    "nombre": "RELLENOS PARA TORTAS",
+    "tipo": "referencia / tabla técnica",
+    "origen": "",
+    "sabor": "",
+    "apto": [
+      "celiaco"
+    ],
+    "tiempo_de_coccion": "180 °",
+    "requiere_frio": false,
+    "nivel_dificultad": "bajo",
+    "ingredientes": [],
+    "descripcion": "Tabla orientativa de cantidad de relleno según diámetro de torta (ganache, buttercream, crema de queso, mousse, crema de chocotorta, etc.). Por ejemplo: torta de 20 cm requiere 550 g de ganache o 400 g de crema de queso."
   }
 ]

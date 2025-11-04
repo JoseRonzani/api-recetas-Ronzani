@@ -203,3 +203,7 @@
 [PUT] /api/recetas/33 - 4/11/2025, 04:46:04
 [PUT] /api/recetas/33 - 4/11/2025, 04:46:09
 [PUT] /api/recetas/33 - 4/11/2025, 04:46:32
+[POST] /api/recetas/33 - 4/11/2025, 04:53:08
+[POST] /api/recetas - 4/11/2025, 04:53:13
+[POST] /api/recetas - 4/11/2025, 05:26:14
+[POST] /api/recetas - 4/11/2025, 05:26:52
