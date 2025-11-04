@@ -130,7 +130,7 @@ static crearReceta(req, res) {
     const datosActualizados = req.body;
     delete datosActualizados.id;
 
-    if (Object.keys(datosActualizados).length === 0) {
+    if (!datosActualizados || Object.keys(datosActualizados).length === 0) {
       return res.status(400).json({ mensaje: 'No se proporcionaron datos para actualizar' });
     }
 
