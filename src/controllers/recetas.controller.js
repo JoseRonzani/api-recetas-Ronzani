@@ -17,8 +17,6 @@ class RecetasController {
   }
 
   // GET /api/recetas/:id
-  //utilizar validateData
-  //acomodar el post
   static obtenerPorId(req, res) {
     const id = formatearId(req.params.id);
     const receta = RecetasModelo.obtenerPorId(id);

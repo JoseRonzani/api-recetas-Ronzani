@@ -1,12 +1,14 @@
 const express = require('express');
 const recetasRoutes = require('./routes/recetas.routes');
 const logger = require('../middlewares/logger');
+import { normalizarClaves } from './middlewares/normalizarClaves.js';
 
 const app = express();
 const PORT = 3000;
 
 app.use(express.json());
 app.use(logger); // 🔹 Loguea cada request
+app.use(normalizarClaves);
 
 app.use('/api/recetas', recetasRoutes);
 
